@@ -36,4 +36,4 @@ After all the setup is done we can load and unload a elf as many times as we wan
 
 ## Credits
 
-- Sistro (ps5debug)
+- [SiSTRo](https://github.com/SiSTR0) (ps5debug)
